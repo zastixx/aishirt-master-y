@@ -3,7 +3,7 @@
 import ImageContainer from "@/components/ImageContainer";
 import React, { useState } from "react";
 
-const API_TOKEN = "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";
+const API_TOKEN = "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";
 
 const Home = () => {
   const [loading, setLoading] = useState(false);
